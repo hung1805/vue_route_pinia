@@ -1,7 +1,7 @@
-<script setup></script>
-
 <template>
-  <router-view />
+  <div>Sign Up</div>
 </template>
+
+<script setup></script>
 
 <style scoped></style>

@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Electronics",
+      "name": "Apple iPhone 14 Pro",
+      "price": 1099,
+      "quantity": 25,
+      "description": "The latest Apple iPhone 14 Pro with a 6.1-inch display, A16 Bionic chip, and 5G technology.",
+      "imageUrl": "https://example.com/images/iphone14pro.jpg",
+      "features": ["6.1-inch display", "5G", "A16 Bionic chip", "128GB storage"],
+      "availability": "In Stock"
+    },
+    {
+      "id": 2,
+      "category": "Electronics",
+      "name": "Dell XPS 13",
+      "price": 1299,
+      "quantity": 15,
+      "description": "Dell XPS 13 ultrabook with a stunning 13.4-inch 4K display, powered by Intel Core i7.",
+      "imageUrl": "https://example.com/images/dellxps13.jpg",
+      "features": ["13.4-inch 4K display", "Intel Core i7", "16GB RAM", "512GB SSD"],
+      "availability": "In Stock"
+    },
+    {
+      "id": 3,
+      "category": "Electronics",
+      "name": "Samsung Galaxy Watch 5",
+      "price": 299,
+      "quantity": 40,
+      "description": "Samsung Galaxy Watch 5 with GPS, heart rate monitor, and Bluetooth connectivity.",
+      "imageUrl": "https://example.com/images/galaxywatch5.jpg",
+      "features": ["44mm", "GPS", "Heart rate monitor", "Bluetooth"],
+      "availability": "In Stock"
+    },
+    {
+      "id": 4,
+      "category": "Fashion",
+      "name": "North Face Puffer Jacket",
+      "price": 199,
+      "quantity": 0,
+      "description": "Stylish and warm puffer jacket by North Face, designed to be waterproof and windproof.",
+      "imageUrl": "https://example.com/images/northfacejacket.jpg",
+      "features": ["Waterproof", "Lightweight", "Windproof"],
+      "availability": "Out of Stock"
+    },
+    {
+      "id": 5,
+      "category": "Fashion",
+      "name": "Adidas Running Shoes",
+      "price": 120,
+      "quantity": 60,
+      "description": "Adidas running shoes with breathable mesh and lightweight rubber soles for comfort.",
+      "imageUrl": "https://example.com/images/adidasrunningshoes.jpg",
+      "features": ["Breathable mesh", "Rubber sole", "Lightweight"],
+      "availability": "In Stock"
+    },
+    {
+      "id": 6,
+      "category": "Home Appliances",
+      "name": "Dyson V11 Vacuum Cleaner",
+      "price": 599,
+      "quantity": 12,
+      "description": "Powerful cordless Dyson V11 vacuum cleaner with 60-minute runtime and advanced suction.",
+      "imageUrl": "https://example.com/images/dysonv11.jpg",
+      "features": ["Cordless", "Powerful suction", "60-minute run time"],
+      "availability": "In Stock"
+    },
+    {
+      "id": 7,
+      "category": "Home Appliances",
+      "name": "Instant Pot Duo 7-in-1",
+      "price": 89,
+      "quantity": 35,
+      "description": "Multi-functional Instant Pot Duo 7-in-1 pressure cooker, rice cooker, steamer, and more.",
+      "imageUrl": "https://example.com/images/instantpotduo.jpg",
+      "features": ["Pressure cooker", "Slow cooker", "Rice cooker", "Steamer", "Saute"],
+      "availability": "In Stock"
+    }
+  ]
+}
